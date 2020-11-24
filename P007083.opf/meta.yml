@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG16455
   title: འགྲེལ་པ་དོན་གསལ་དང་། རྣམ་བཤད་སྙིང་པོ་རྒྱན་གྱི་དགོངས་འགྲེལ་ཚིག་དོན་རབ་གསལ།
-  volume: ''
+  volume:
+    df151712c50b4bdd9396c27fee21acc8:
+      image_group_id: I1KG16457
+      title: Volume 1 of 'grel pa don gsal dang / rnam bshad snying po rgyan gyi dgongs
+        'grel tshig don rab gsal/
+      volume_number: 1
+      total_pages: 444
   author: ''
+ebook_metadata:
+  title: འགྲེལ་པ་དོན་གསལ་དང་། རྣམ་བཤད་སྙིང་པོ་རྒྱན་གྱི་དགོངས་འགྲེལ་ཚིག་དོན་རབ་གསལ།
+  author: ''
+  sku: P007083
+  cover: cover.jpg
+  layers:
+  - pagination
