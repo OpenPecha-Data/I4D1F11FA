@@ -1,5 +1,7 @@
 id: P007083
 initial_creation_type: ocr
+created_at: 30/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W1KG16455
   title: འགྲེལ་པ་དོན་གསལ་དང་། རྣམ་བཤད་སྙིང་པོ་རྒྱན་གྱི་དགོངས་འགྲེལ་ཚིག་དོན་རབ་གསལ།
@@ -12,10 +14,3 @@ source_metadata:
       volume_number: 1
       total_pages: 444
       base_file: v001.txt
-ebook_metadata:
-  title: འགྲེལ་པ་དོན་གསལ་དང་། རྣམ་བཤད་སྙིང་པོ་རྒྱན་གྱི་དགོངས་འགྲེལ་ཚིག་དོན་རབ་གསལ།
-  author: ''
-  sku: P007083
-  cover: cover.jpg
-  layers:
-  - pagination
